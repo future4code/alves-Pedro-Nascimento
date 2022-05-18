@@ -1,0 +1,92 @@
+Terminal e Comandos:
+Terminal - É uma tela de comandos preta do computador.
+Existem vários terminais no mercado.
+Bash
+Zsh
+CMD
+PowerShell.
+Get Bash
+Os terminais depende do seu sistema operacional, todo sistema operacional herda o seu.
+Os terminais do Windows, são mais fracos que os outros para nos.
+Então utilizamos Gitbash para simular o bash no Windows.
+Por que usar o terminal:
+Alguns programas não possuem interface gráfica
+Permite autoatização de tarefas.
+Força Maior entendimento por parte do usuário.
+É bem mais rápido e eficiente que a interface gráfica.
+O Terminal, ajuda você treinar mais seu pensamento, pois força mais entendimento.
+Com terminal é bem mais rápido para apagar arquivos grandes.
+[ - Comandos do Terminal - ] 
+Um comando é uma sequência de palavras e letras que executam uma determinada ação. Cada elemento dessa sequência é chamado de argumento.
+Cada comando pode possuir opções e parâmetros.
+Opções: Mudam o comportamento do comando e possuem o caractere '-' ou ''--'' como prefixo.
+parâmetros: São informações atribuídas ao próprio comando ou às opções.
+Exemplo: Visualizar as primeiras 5 linhas de um arquivo chamado meu arquivo.txt
+Head -n 5 meu- arquivo. txt.
+Head - arg 0 (nome do comando)
+-n - arg 1 (opção) 
+5 - arg 2 (informação da opção).
+meu-arquivo - arg 3 (informação para o comando).
+Definição Terminal:
+A Caixa preta dos comandos, que irá executar alguns comandos e locomover com a própria máquina.
+É possível mexer em programas com interface gráfica com terminal.
+Terminal é como conversar com a máquina só com comandos mais especificos.
+As vezes com a interface gráfica a gente perde um pouco de eficiência comparado ao terminal.
+[ - Comando Básicos - ] 
+Echo - Imprime algo no terminal.
+" - Utilize alt e aspas para ter aspas juntas.
+whoami - Imprime o nome do usuário na tela 
+clear - limpa tudo que está aparecendo no terminal.
+pwd - sigla para print working directory, mostra o endereço completo do diretório/ pasta em que estamos trabalhando.
+is - O nome de list.
+Lista os arquivos e pastas do diretório que estamos.
+cd - sigla change directory
+Muda o diretóriio/ pasta em que estamos, e colocamos nome da pasta.
+cd ../ - Volta para pasta anterior, caso queira voltar mais deritórios usa cd ../../ e assim adiante.
+mkdir - Sigla para make directory, cria um novo documento ou diretório (Como criar uma nova pasta).
+touch - Cria um novo arquivo, seja texto ou qualquer outro tipo de Arquivo
+Primeiras 3 primeiras letras e tab completa
+rm - Vem da palavra remove, possibilita apagar arquivos, ele apaga de uma maneira IRREVERSÍVEL E SEM PEDIR CONFIRMAÇÃO.
+rm -r - é feito para excluir uma pasta especifica, isso pode-se ser feito com ./ ou sem ele.
+MV - Vem da palavra move, permite mover arquivos de um diretório para outro, pode ser usado para renomear arquivos, primeiro pede o arquivo que pede moverpor exemplo:
+mv Teste/oi.txt  teste2/
+Se mover para outra pasta - Você utiliza cd ../nome da pasta/
+mv - pode renomear utilizando da seguinte forma.
+Exemplo:
+oi.txt ola.txt
+Exemplo:
+cd ../teste2/
+CP - Vem da palavra copia, copia arquivos de um diretório para outro.
+Cat - Vem da palavra concat, ele concatena os arquivos, é possível ler o que está escrito dentro de um arquivo
+Exemplo - Cat teste2/oi.txt
+Ou caso esteja dentro da pasta.
+Cat oi.txt
+O Comando Cat, ler outras extensões também, sendo tudo que contem texto ele consegue ler.
+head - imprime as 10 primeiras linhas de um arquivo.
+A opção -n permite indicar quantas linhas queremos ver
+exemplo:
+head oi.txt
+head -n 11(ou qualquer quantidade de linhas) oi.txt
+Tail - Imprime as 10 últimas linhas de um arquivo, inverso do head,
+tail -n - Funciona igual do head mas das 12 últimas em vez das 12 primeiras.
+grep - permite buscar um determinado texto no conteúdo de um arquivo.
+-A x (Numero da quantidade de linhas)  - imprime x linhas após o texto
+-B y (numero da quantidade de linhas) - imprime y linhas antes do texto.
+Se for procurar palavras não esqueça das aspas.
+Exemplos:
+grep "Tudo Bem"  oi.txt -A 2
+grep "Tudo Bem" oi.txt -B 2
+grep "Tudo Bem" oi.txt -B 2 -A 2
+code - Comando do próprio VSCode, é o arquivo que executa comandos ou arquivos no VS code, colocando o nome do arquivo na frente. Ou colocando . (Code, vai executar o VSCODE na pasta que o comando está).
+Clear
+Is
+Cd
+Touch
+Mkdir
+Rm
+Cat
+Head
+Tail
+Grep
+Comandos mais utilizados nas aulas futuras.
+Seta para cima e para baixo no terminal, é possível você ver os comandos antigos que você fez

@@ -1,0 +1,18 @@
++ = Soma
+- = Subtração
+* = Multiplicação
+/ = Divisão real
+% = "Resto" da divisão
+**= Potenciação
+
+Ordem de precedencia
+
+Sempre executar primeiro o material dentro dos "( )", Depois a "**", 
+depois a "*" ou "/"(o que aparecer primeiro) e sobrando "+"
+ e "-"(o que aparecer primeiro).
+
+Ex:
+5+3/2 = 6.5
+
+(5+3)/2= 4
+.

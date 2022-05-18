@@ -1,0 +1,16 @@
+Operador Logico
+
+(!)= Negação.
+(&&)= "Conjução "e""
+(||)= OU.
+
+
+&&                   ||
+t-t=t                t-f= v
+f-t=f                v-v= v
+t-f=f                f-t= v
+f-f=f                f-f= f
+
+
+!<&&<||(Ordem)*
+

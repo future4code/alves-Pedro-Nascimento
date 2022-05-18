@@ -1,0 +1,257 @@
+ cd assassinato-na-linha-de-comando
+  120  pwd
+  121  pwd assassinato-na-linha-de-comando
+  122  pwd
+  123  /
+  124  ../
+  125  pwd
+  126  ls
+  127  cd downloads
+  128  ls
+  129  cat assassinato-na-linha-de-comando
+  130  cat inicio
+  131  history
+  132  clear
+  133  cd
+  134  ,cd
+  135  pwd
+  136  cd download
+  137  pwd
+  138  cat assassinato-na-linha-de-comando
+  139  cat assassinato-na-linha-de-comando
+  140  pwd assassinato-na-linha-de-comando
+  141  cd -assas
+  142  cd - assassinato-na-linha-de-comando
+  143  cd -download
+  144   cd- download
+  145  grep "PISTA" cena-do-crime
+  146  head -n 20 pessoas
+  147  head n- 20
+  148  head -n 20 pessoas
+  149  grep "pist"
+  150  grep "pista"
+  151  rm
+  152  rm assassinato-na-linha-de-comando
+  153  ls
+  154  cd misterio
+  155  pwd
+  156  ls
+  157  cat inicio
+  158  ../ ../
+  159  cd assassinato-na-linha-de-comando
+  160  cd "assassinato-na-linha-de-comando"
+  161  pwd
+  162  cd
+  163  ls
+  164  cat "inicio"
+  165  arquivo "cena-do-crime"
+  166  cd "cena-do-crime"
+  167  grep inicio
+  168  cat inicio
+  169  grep “PISTA”
+  170  cd assassinato-na-linha-de-comando
+  171  cat inicio
+  172  man grep
+  173  ls
+  174  cd misterio
+  175  head -n 20 pessoas
+  176  cat ruas
+  177  ls
+  178  ruas
+  179  cd ruas
+  180  cat Alicia fuente
+  181  head ../
+  182  /
+  183  cd
+  184  cd ruas
+  185  ../ assassinato-na-linha-de-comando
+  186  pwd
+  187  cd
+  188  cd assassinato-na-linha-de-comando
+  189  cat inicio
+  190  clear
+  191  pwd
+  192  cd `assassinato-na-linha-de-comando'
+  193  pwd
+  194  a
+  195  inico
+  196  a
+  197  a
+  198  a
+  199  a
+  200  clear
+  201  cat inicio
+  202  cat read me
+  203  cat README
+  204  ls
+  205  head misterio
+  206  cd misterio
+  207  head -n 20 pessoas
+  208  head pessoas
+  209  head rua
+  210  head ruas
+  211  head automoveis
+  212  head associacoes
+  213  grep "PISTA" cena-do-crime
+  214  tail head
+  215  ,
+  216  ruas
+  217  head ruas
+  218  head rua
+  219  grep rua
+  220  pwd
+  221  cat inicio
+  222  grep "PISTA" cena-do-crime
+  223  cd misterio
+  224  grep "PISTA" cena-do-crime
+  225  head ruas
+  226  grep "PISTA" cena-do-crime
+  227  clear
+  228  grep "PISTA" cena-do-crime
+  229  head ruas
+  230  head pessoas
+  231  head automoveis
+  232  head Jianbo megannem
+  233  head 'Jianbo megannem'
+  234  head pessoas
+  235  -n 20 pessoas
+  236  cd asssassinato-na-linha-de-comando
+  237  /
+  238  .../
+  239  ../
+  240  ./
+  241  ../
+  242  ../ ../
+  243  ../assassinato-na-linha-de-comando
+  244  ../assassinato-na-linha-de-comando/
+  245  cd../
+  246  cd ../
+  247  clear
+  248  cat inicio
+  249  grep "PISTA" cena-do-crime
+  250  head -n 20 pessoas
+  251  ls
+  252  cat inicio
+  253  cd misterio
+  254  cd "cena-do-crime
+  255  a
+  256  a
+  257  aa
+  258  aaw0,
+  259  awfaw
+  260  20we
+  261  cd ../
+  262  grep "Annabel" pessoas
+  263  head -n 173 ruas/Rua_Mattapan | tail -n 1
+  264  head -n 173 ruas/Rua_Mattapan | tail -n 1
+  265
+  266  ~
+  267  A,
+  268  LEIA A ENTREVISTA
+  269   head -n 173 ruas/Rua_Mattapan | tail -n 1
+  270  head -n 173 ruas/Rua_Mattapan | tail -n 1
+  271  head -n 173 ruas/Rua_MattapAN
+  272  CLEAR
+  273  ../
+  274  cd ../
+  275  cat inicio
+  276  /cd misterio
+  277  ls
+  278  cd misterio
+  279  grep "PISTA" cena-do-crime
+  280  ../assassinato-na-linha-de-comando/
+  281  grep "PISTA" cena-do-crime
+  282  head pessoas
+  283  head ruas
+  284  head -n 173 ruas/Rua_Mattapan | tail -n 1
+  285  tail -n
+  286  ls
+  287  head entrevistas
+  288  cat entrevistas
+  289  grap ruas
+  290  grep ruas
+  291  grep "PISTA" cena-do-crime
+  292  cd misterio
+  293  grep "PISTA" cena-do-crime
+  294  head entrevistas
+  295  head entrevistas
+  296  ls
+  297  head -n 20 pessoas
+  298  grep "PISTA" cena-do-crime
+  299  grep "Annabel" pessoas
+  300  head -n 173 ruas/Rua_Mattapan | tail -n 1
+  301  grep "nº da placa"
+  302  cat inicio
+  303  cat inicio
+  304  cd misterio
+  305  head -n 20 pessoas
+  306  grep "PISTA" cena-do-crime
+  307  grep "Annabel" pessoas
+  308  cat entrevista-n38
+  309  cd ../
+  310  ana
+  311  Annabel Church
+  312  cd misterio
+  313  lg
+  314  ls
+  315  cd entrevista
+  316  grep "PISTA" cena-do-crime
+  317  head automoveis
+  318   grep "Honda" automoveis
+  319   grep "Azul" automoveis
+  320   grep "L337" automoveis
+  321  grep "Annabel" pessoas
+  322  head -n 173 ruas/Rua_Mattapan | tail -n 1
+  323  head -n 40 ruas/Vila Hart | tail -n 1
+  324  head -n 40 ruas/Vila Hart
+  325  head -n 40 ruas/Vila Hart | tail -n 1
+  326  Head -n 179 Vila_beckham
+  327  clear
+  328  cd ../
+  329  cat inicio
+  330  cd misterio
+  331  ls
+  332  grep PISTA cena-do-crime
+  333  ls
+  334  grep Annabel pessoas
+  335  cd ruas
+  336  head -n 26 Vila Hart
+  337  head -n 26 Vila_Hart
+  338  Head -n 37 Rua_Mattapan
+  339  head -n 40 Vila_hart
+  340  head -n 173 Rua_Mattapan
+  341  Head -n 179 Vila_beckham
+  342  Head -n 179 Vila_beckham
+  343  head -n 179 Vila_Buckingham
+  344  head -n 176 Rua_Haley
+  345  ../ cd
+  346  cd ../
+  347  cd entrevistas
+  348  cat entrevista 871877
+  349  cat entrevista #871877
+  350  cat entrevista-811877
+  351  cat-871877
+  352  cat entrevista-871877
+  353  cat entrevista-699607
+  354  ../ cd
+  355  greep L337 automoveis a-5
+  356  greep L337 automoveis a-5
+  357  ls
+  358  fck
+  359  cd ../
+  360  grep L337 automoveis a-5
+  361  grep pista
+  362  grep L337 automoveis a-5
+  363  cd associacoes
+  364  grep Jeremy AAA
+  365  cd../
+  366  cd ../
+  367  grep jeremy pessoas
+  368  cd ruas
+  369  head-n 284 Travessa_Dunstrable
+  370  head -n 284 Travessa_Dunstrable
+  371  head -n 284 Travessa_Dunstrable
+  372  cd ../
+  373  cd ../
+  374  history
+
