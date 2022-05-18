@@ -1,0 +1,19 @@
+Relacionais
+
+(>)= Maior.
+(<)= Menor.
+(>=)= Maior ou igual.
+(<=)= Menor ou igual.
+(==)= igual.
+(!=)= Diferente.
+
+
+Identidade 
+
+(===)= Mesmo valor(Mesmo Tipo).
+
+(!==)= Desigual restrito.
+
+
+
+
