@@ -1,0 +1,40 @@
+.funcionario{
+    color: cyan;
+    background-color: orchid;
+    display: inline-block;
+}
+.funcionariojojo{
+    color: red;
+    background-color: coral;
+    display:inline-table;
+    
+}
+.titleLoja{
+    color: honeydew;
+    background-color: black;
+    display: inline-block;
+}
+#produtos{
+    color: mediumspringgreen;
+    background-color: purple;
+    display: inline;
+}
+tr{
+    background-color: black;
+    color: aliceblue;
+   
+}
+#estoque{
+    background-color: black;
+    color: aliceblue;
+    display: inline-block;
+}
+th{
+    color: gray;
+    background-color: black;
+    
+}
+tr{
+    color: rgb(228, 20, 20);
+    background-color:black;
+}
