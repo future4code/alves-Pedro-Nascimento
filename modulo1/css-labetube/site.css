@@ -1,0 +1,58 @@
+body ul li p{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    font-size: 2px;
+    font-family: Cambria;
+    text-decoration: none;
+    
+
+}
+a{
+    text-decoration: none;
+    color: rgb(51, 40, 158);
+
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: rgb(238, 210, 53);
+    
+}
+.menu{
+    display: flex;
+}
+.menu li{
+    margin-left: 15px;
+
+}
+.menu li a{
+    display: block;
+    padding: 7.5px;
+    background-color: white;
+}
+ul{
+    list-style:none; 
+}
+.cont{
+    text-align: center;
+    margin-top: 95px;
+}
+
+
+.KKK{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 200px;
+    color: red;
+    background-color: black,;
+}
+.videos1{
+   display: grid;
+   justify-items: center;
+   grid-gap: 15px;
+   grid-template-columns: flex;
+
+}
