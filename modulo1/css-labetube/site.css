@@ -20,6 +20,7 @@ a{
     align-items: center;
     flex-wrap: wrap;
     background-color: rgb(238, 210, 53);
+    overflow: hidden;
     
 }
 .menu{
@@ -37,9 +38,14 @@ a{
 ul{
     list-style:none; 
 }
-.cont{
+.meusVideos{
     text-align: center;
     margin-top: 95px;
+    font-size: 80px;
+    color: darkorange;
+    justify-content: center;
+    overflow: hidden;
+    border-radius: 80px;
 }
 
 
@@ -49,10 +55,36 @@ ul{
     color: red;
     background-color: black,;
 }
-.videos1{
-   display: grid;
-   justify-items: center;
-   grid-gap: 15px;
-   grid-template-columns: flex;
-
+.contVideos{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.contVideos video{
+    height: 15rem;
+    width: 25rem;
+    margin: 2rem;
+    box-shadow: 0.5rem 1rem rgb(0, 0, 5);
+    overflow: hidden;
+    border: none;
+    border-color: gray;
+    cursor: pointer;
+}
+.contVideos video:hover{
+    transition: 1.3s linear;
+    transform: scale(1.1);
+}
+.contVideos .video .active:hover{
+    position: fixed;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    height: auto;
+    width: 70%;
+    z-index: 1px;
+}
+.butaozin{
+    
+    cursor: pointer;
+    justify-content: center;
+    overflow-wrap: wrap;
 }
