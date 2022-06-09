@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="site.css">
+</head>
+<body>
+    <header class="header"> 
+        <a ref="#">LabeTube</a>
+        <nav>
+            <ul class="menu">
+                <li><a href="#">Notifications!</a></li>
+                <li><a href="videoinfo.html">detalhes do video</a></li>
+                <li><a href="#">home</a></li>
+                <li><a href="nada.html">Nada :C</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <Div class="meusVideos">Meus Videos</Div>
+
+    
+<section class="videos1">
+
+    <div class="contVideos">
+
+        <div class ="video">
+            <video src="videos/vvv1.mp4" muted></video>
+            
+        </div>
+
+            <div class ="video">
+                <video src="videos/2.mp4" muted></video> 
+            </div>
+
+                <div class ="video">
+                    <video src="videos/3.mp4" muted></video> 
+                </div>
+
+                    <div class ="video">
+                        <video src="videos/4.mp4" muted></video> 
+                    </div>
+                        
+                        <div class ="video">
+                            <video src="videos/5.mp4" muted> </video> 
+                        </div>
+
+                        <div class ="video">
+                            <video src="videos/6.mp4" muted></video> 
+                        </div>
+
+                        <div class ="video">
+                            <video src="videos/7.mp4" muted></video> 
+                        </div>
+
+                        <div class ="video">
+                            <video src="videos/8.mp4" muted></video> 
+                        </div>
+
+
+     </div>
+
+</section>
+<script>
+    var video = document.querySelectorALL ('video')
+    video.forEach(play => play.addEventlistener('click',()=>{
+        play.classilist.toggle('active')
+        if (play.paused){
+            play.play()
+        }else{
+            play.pause()
+            play.currentTime= 0
+        }
+    }))
+</script>
+</body>                  
+</html>
