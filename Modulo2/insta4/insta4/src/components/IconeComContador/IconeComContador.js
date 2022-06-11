@@ -13,4 +13,5 @@ export function IconeComContador(props) {
 		<IconImage alt={'Icone'} src={props.icone} onClick={props.onClickIcone}/>
 		<p>{props.valorContador}</p>
 	</IconContainer>
+	
 }

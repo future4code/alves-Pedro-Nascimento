@@ -1,0 +1,8 @@
+linha 91 o valor do icon que tme efeito onclick inicialmente é igual a 0, isso me lembra muito bem um array
+com uma funçao que quando o alguem click no butao o valor é mudado de maneira interativa.
+
+ESSE incon contador ele ser para guardar o valor de "likes" que a foto recebe, tipo é o icone quer vai mostar os numero
+de curtidas recebida.
+mexi em algumas coisas antes eu na oconseguia clickar em add comentarios, porem agr eu consigo add variso comentarios vazios
+
+onClickComentario= quando eu clicko o em ucomentario é computado na contagem 

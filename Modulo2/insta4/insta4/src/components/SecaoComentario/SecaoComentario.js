@@ -25,10 +25,13 @@ export class SecaoComentario extends Component {
 		return <CommentContainer>
 			<InputComentario
 				placeholder={'Comentário'}
-				value={''}
+				value={'oi eu'}
 				onChange={this.onChangeComentario}
 			/>
-			<button onClick={this.props.aoEnviar}>Enviar</button>
+			<button onClick={this.props.aoEnviar}>Enviar oi</button>
 		</CommentContainer>
-	}
+	
+
+}
+
 }
