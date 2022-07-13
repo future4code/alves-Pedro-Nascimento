@@ -1,0 +1,22 @@
+// ### Nao to conseguindo fazer a execuçao do react, desde que eu mexe no terminal 
+//simplesmente nao abre mais nada pra mim, to fazendo alguma besteria.
+
+
+// tava pensando em utilizar uma pasta com esse cod, para add meu nome, depois percebi 
+//que nao era bem necessario fazer isso, pois iria so add amais info ao e nao iria apagar as info do robo
+//(import React from 'react';
+// import './CardPequeno.css'
+
+// function CardPequeno(props) {
+//     return (
+//         <div className="smallcard-container">
+//             <img src={ props.imagem } />
+//             <div>
+//                 <h4>{ props.nome }</h4>
+//                 <p>{ props.descricao}</p>
+//             </div>
+//         </div>
+//     )
+// })
+// fiz os procedimentos de surge e npm so por fazer pois sei que o site quebrado e bugado 
+// perdao.  cautious-neck.surge.sh
