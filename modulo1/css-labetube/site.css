@@ -1,0 +1,90 @@
+body ul li p{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    font-size: 2px;
+    font-family: Cambria;
+    text-decoration: none;
+    
+
+}
+a{
+    text-decoration: none;
+    color: rgb(51, 40, 158);
+
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: rgb(176,196,222);
+    overflow: hidden;
+    
+}
+.menu{
+    display: flex;
+}
+.menu li{
+    margin-left: 15px;
+
+}
+.menu li a{
+    display: block;
+    padding: 7.5px;
+    background-color: white;
+}
+ul{
+    list-style:none; 
+}
+.meusVideos{
+    text-align: center;
+    margin-top: 95px;
+    font-size: 80px;
+    color: darkorange;
+    justify-content: center;
+    overflow: hidden;
+    border-radius: 80px;
+}
+
+
+.KKK{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 200px;
+    color: red;
+    background-color: black,;
+}
+.contVideos{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.contVideos video{
+    height: 15rem;
+    width: 25rem;
+    margin: 2rem;
+    box-shadow: 0.5rem 1rem rgb(0, 0, 5);
+    overflow: hidden;
+    border: none;
+    border-color: gray;
+    cursor: pointer;
+}
+.contVideos video:hover{
+    transition: 1.3s linear;
+    transform: scale(1.1);
+}
+.contVideos .video .active:hover{
+    position: fixed;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    height: auto;
+    width: 70%;
+    z-index: 1px;
+}
+.butaozin{
+    
+    cursor: pointer;
+    justify-content: center;
+    overflow-wrap: wrap;
+}
